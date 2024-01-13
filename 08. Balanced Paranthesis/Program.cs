@@ -8,5 +8,7 @@ class Program
         // half in stack, half in queue
         for ()
             { }
+        //new
+        //new2
     }
 }
